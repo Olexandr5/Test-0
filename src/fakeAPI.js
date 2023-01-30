@@ -9,6 +9,8 @@ const products = [
   { id: 'p-1', name: 'Pants 1' },
   { id: 'p-2', name: 'Pants 2' },
   { id: 'p-3', name: 'Pants 3' },
+  { id: 'p-4', name: 'Pants 4' },
+  { id: 'p-5', name: 'Pants 5' },
 ];
 
 export const getProducts = () => {
